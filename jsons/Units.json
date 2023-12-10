@@ -2,9 +2,10 @@
   {
     "name": "Hollow Knight"
     "unitType": "Sword"
-    "uniques": ["Unbuildable", "Can move after attacking"]
+    "uniques": ["Can move after attacking"]
     "strength": "40"
     "uniqueTo": "Hallownest"
     "movement": "5"
+    "cost": "0"
   },
 ]
