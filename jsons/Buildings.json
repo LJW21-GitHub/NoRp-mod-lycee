@@ -3,18 +3,20 @@
 		"name": "Bench",
 		"uniqueTo": "Hallownest",
 		"cost": 85,
-		"happiness": 2,
-		"culture": 2,
+		"happiness": 5,
+		"culture": 5,
 		"requiredTech": "Iron Working"
 		"requiredResource": "Iron"
 	},
 	{
 		"name": "Temple de l'Œuf Noir",
 		"uniqueTo": "Hallownest",
-		"cost": 300,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"cost": 0,
+		"hurryCostModifier": 150,
+		"happiness": 10,
+		"isNationalWonder": true
+		"requieredBuildingInAllCitys": "Bench"
+		"uniques": ["free [Hollow Knight] appears"]
+		"requiredTech": "Iron Working"
 	}
 ]
