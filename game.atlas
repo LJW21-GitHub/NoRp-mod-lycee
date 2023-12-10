@@ -1,0 +1,27 @@
+
+game.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Hallownest
+  rotate: false
+  xy: 4, 100
+  size: 320, 350
+  orig: 320, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Unseen Lands
+  rotate: false
+  xy: 332, 431
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight
+  rotate: false
+  xy: 4, 4
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
