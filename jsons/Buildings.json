@@ -16,7 +16,7 @@
 		"happiness": 10,
 		"isNationalWonder": true
 		"requieredBuildingInAllCitys": "Bench"
-		"uniques": ["free [Hollow Knight] appears"]
+		"uniques": ["free [Hollow Knight] appears", "Requires a [Bench] in all cities"]
 		"requiredTech": "Iron Working"
 	}
 ]
