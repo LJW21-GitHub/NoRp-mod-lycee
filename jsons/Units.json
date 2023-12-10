@@ -3,4 +3,5 @@
     "name": "Hollow Knight"
     "unitType": "Sword"
     "uniques": ["unbuildable", "can move after attacking"]
-    "strength"
+    "strength": "40"
+    "uniqueTo": "Hallownest"
