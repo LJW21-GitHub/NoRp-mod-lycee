@@ -45,14 +45,14 @@
     "afterPeace": "Cela ne résout les problèmes de personne d'autre que vous.",
     "tradeRequest": "Qu'en penses-tu, petite créature ?",
     "outerColor": [
-      255,
-      255,
-      255
-    ],
-    "innerColor": [
       0,
       0,
       0
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
     ],
     "cities": [
       "Five Pebbles",
