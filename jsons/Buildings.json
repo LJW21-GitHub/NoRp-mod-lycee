@@ -6,7 +6,7 @@
 		"happiness": 2,
 		"culture": 2,
 		"requiredTech": "Iron Working"
-		"requiredRessource": "Iron"
+		"requiredResource": "Iron"
 	},
 	{
 		"name": "Temple de l'Œuf Noir",
