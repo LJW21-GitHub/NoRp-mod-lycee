@@ -1,22 +1,17 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Bench",
+		"uniqueTo": "Hallownest",
+		"cost": 85,
+		"happiness": 2,
+		"culture": 2,
+		"requiredTech": "Iron Working"
+		"requiredRessource": "Iron"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "Temple de l'Œuf Noir",
+		"uniqueTo": "Hallownest",
+		"cost": 300,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
