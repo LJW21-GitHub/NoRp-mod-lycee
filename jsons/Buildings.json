@@ -2,7 +2,7 @@
 	{
 		"name": "Bench",
 		"uniqueTo": "Hallownest",
-		"cost": 85,
+		"cost": 0,
 		"happiness": 5,
 		"culture": 5,
 		"requiredTech": "Iron Working"
