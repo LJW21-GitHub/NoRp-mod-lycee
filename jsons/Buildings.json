@@ -2,7 +2,7 @@
 	{
 		"name": "Bench",
 		"uniqueTo": "Hallownest",
-		"cost": 0,
+		"cost": 150,
 		"happiness": 5,
 		"culture": 5,
 		"requiredTech": "Iron Working"
@@ -11,11 +11,10 @@
 	{
 		"name": "Temple de l'Œuf Noir",
 		"uniqueTo": "Hallownest",
-		"cost": 0,
+		"cost": 500,
 		"hurryCostModifier": 150,
-		"happiness": 10,
+		"happiness": 7,
 		"isNationalWonder": true
-		"requieredBuildingInAllCitys": "Bench"
 		"uniques": ["Free [Hollow Knight] appears", "Requires a [Bench] in all cities"]
 		"requiredTech": "Iron Working"
 	}
