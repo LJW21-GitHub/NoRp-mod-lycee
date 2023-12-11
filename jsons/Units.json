@@ -1,11 +1,60 @@
 [
   {
+    "name": "Pure Vessel"
+    "unitType": "Sword"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 30
+    "uniqueTo": "Hallownest"
+    "movement": 3
+    "upgradesTo": "Pure Vessel 2"
+  },
+  {
+    "name": "Pure Vessel 2"
+    "unitType": "Sword"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 45
+    "uniqueTo": "Hallownest"
+    "requiredTech": "Gunpowder"
+    "movement": 3
+    "upgradesTo": "Pure Vessel 3"
+  },
+  {
     "name": "Hollow Knight"
     "unitType": "Sword"
-    "uniques": ["Can move after attacking"]
-    "strength": "40"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 60
     "uniqueTo": "Hallownest"
-    "movement": "5"
-    "cost": "0"
+    "requiredTech": "Industrialization"
+    "movement": 3
+    "upgradesTo": "Hollow Knight 2"
+  },
+  {
+    "name": "Hollow Knight 2"
+    "unitType": "Sword"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 80
+    "uniqueTo": "Hallownest"
+    "requiredTech": "Replaceable Parts"
+    "movement": 3
+    "upgradesTo": "Hollow Knight 3"
+  },
+  {
+    "name": "Hollow Knight 3"
+    "unitType": "Sword"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 125
+    "uniqueTo": "Hallownest"
+    "requiredTech": "Atomic Theory"
+    "movement": 3
+    "upgradesTo": "Hollow Knight 4"
+  },
+  {
+    "name": "Hollow Knight 4"
+    "unitType": "Sword"
+    "uniques": ["Unbuildable", "Can move after attacking"]
+    "strength": 175
+    "uniqueTo": "Hallownest"
+    "requiredTech": "Nuclear Fusion"
+    "movement": 3
   },
 ]
