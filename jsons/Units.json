@@ -2,7 +2,7 @@
   {
     "name": "Pure Vessel"
     "unitType": "Sword"
-    "uniques": ["Unbuildable", "Can move after attacking"]
+    "uniques": ["Can move after attacking"] 
     "strength": 30
     "uniqueTo": "Hallownest"
     "movement": 3
