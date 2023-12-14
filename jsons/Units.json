@@ -89,6 +89,8 @@
 	},
 	{
 		"name": "Inquisitor Saint",
+		"replaces": "Inquisitor"
+		"uniqueTo": "Unseen Lands"
 		"unitType": "Civilian",
 		"uniques": ["Prevents spreading of religion to the city it is next to",
 			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
