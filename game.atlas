@@ -1,0 +1,132 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bench
+  rotate: false
+  xy: 100, 110
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shelter
+  rotate: false
+  xy: 1549, 483
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de l'Œuf Noir
+  rotate: false
+  xy: 1453, 416
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+NationIcons/Hallownest
+  rotate: false
+  xy: 481, 154
+  size: 320, 350
+  orig: 320, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Unseen Lands
+  rotate: false
+  xy: 1453, 389
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight
+  rotate: false
+  xy: 4, 155
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 2
+  rotate: false
+  xy: 4, 155
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 3
+  rotate: false
+  xy: 4, 155
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 4
+  rotate: false
+  xy: 4, 155
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pure Vessel
+  rotate: false
+  xy: 1137, 89
+  size: 308, 415
+  orig: 308, 415
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Saint
+  rotate: false
+  xy: 809, 4
+  size: 320, 500
+  orig: 320, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight
+  rotate: false
+  xy: 4, 59
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 2
+  rotate: false
+  xy: 4, 59
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 3
+  rotate: false
+  xy: 4, 59
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 4
+  rotate: false
+  xy: 4, 59
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Pure Vessel
+  rotate: false
+  xy: 4, 28
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+UnitIcons/Pure Vessel 2
+  rotate: false
+  xy: 4, 28
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+UnitIcons/Saint
+  rotate: false
+  xy: 1137, 37
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
