@@ -137,5 +137,59 @@
       "La ruche",
       "Le repos éternel"
     ]
+  },
+  {
+    "name": "Disney",
+    "leaderName": "Penny",
+    "adjective": [
+      "disney"
+    ],
+    "declaringWar": "Vous allez vous prendre un coup de poêle à frire !",
+    "attacked": "Nous avons battu les Huns, pourquoi pas vous ?",
+    "defeated": "Je n'ai pas dit mon dernier mot !",
+    "introduction": "Nous avons un chien de garde dôté de super-pouvoirs, des rats cuisiniers et des titants d'éléments... Et vous ?",
+    "neutralHello": "Comment allez-vous ?",
+    "neutralLetsHearIt": [
+      "Sale poisson pourri... Crache le morceau !",
+      "Quoi donc ?",
+      "Je t'écoute."
+    ],
+    "neutralNo": [
+      "Non, merci.",
+    ],
+    "neutralYes": [
+      "Pourquoi pas, je vous en remercie !",
+      "J'accepte.",
+      "D'accord."
+    ],
+    "hateHello": "Fiche le camp, sale bête !",
+    "hateLetsHearIt": [
+      "Tic, tac, tic, tac..."
+    ],
+    "hateNo": [
+      "*BANK*",
+    ],
+    "hateYes": [
+      "J'ai dit oui, maintenant vas-t-en ou je lache le chien.",
+      "J'accepte.",
+      "Bien..."
+    ],
+    "afterPeace": "Les monstres arrêteront de vous hanter par les portes.",
+    "tradeRequest": "Es-tu d'accord avec moi Bubulle ? ",
+    "outerColor": [
+      153,
+      204,
+      255
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "cities": [
+      "Paris",
+      "Hollywood",
+      
+    ]
   }
 ]
