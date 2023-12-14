@@ -2,20 +2,32 @@
 	{
 		"name": "Bench",
 		"uniqueTo": "Hallownest",
+		"maintenance": 1,
 		"cost": 150,
-		"happiness": 5,
-		"culture": 5,
+		"happiness": 3,
+		"culture": 3,
+		"uniques": ["Destroyed when the city is captured"]
 		"requiredTech": "Iron Working"
 		"requiredResource": "Iron"
 	},
 	{
 		"name": "Temple de l'Œuf Noir",
 		"uniqueTo": "Hallownest",
+		"maintenance": 5,
 		"cost": 500,
 		"hurryCostModifier": 150,
-		"happiness": 7,
-		"isNationalWonder": true
-		"uniques": ["Free [Pure Vessel] appears", "Requires a [Bench] in all cities"]
+		"happiness": 5,
+		"isNationalWonder": true,
+		"uniques": ["Free [Pure Vessel] appears", "Requires a [Bench] in all cities", "Requires a [Bench] in at least [3] cities", "Destroyed when the city is captured"]
+		"quote": "No cost too great."
 		"requiredTech": "Iron Working"
+	},
+	{
+		"name": "Shelter",
+		"uniqueTo": "Unseen Lands",
+		"cost" : 150,
+		"cityHealth": 100,
+		"uniques": ["Destroyed when the city is captured"]
+		"requiredTech": "Metal Casting"
 	}
 ]
