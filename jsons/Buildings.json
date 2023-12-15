@@ -54,7 +54,6 @@
 		"cost": 280,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true
-		"uniques": [
 		"requiredTech": "optics"
 ]
 ]
