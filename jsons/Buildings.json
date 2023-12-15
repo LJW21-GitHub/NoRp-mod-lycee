@@ -6,8 +6,8 @@
 		"cost": 150,
 		"happiness": 3,
 		"culture": 3,
-		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Iron Working"
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Iron Working",
 		"requiredResource": "Iron"
 	},
 	{
@@ -18,8 +18,8 @@
 		"hurryCostModifier": 150,
 		"happiness": 5,
 		"isNationalWonder": true,
-		"uniques": ["Free [Pure Vessel] appears", "Requires a [Bench] in all cities", "Requires a [Bench] in at least [3] cities", "Destroyed when the city is captured"]
-		"quote": "No cost too great."
+		"uniques": ["Free [Pure Vessel] appears", "Requires a [Bench] in all cities", "Requires a [Bench] in at least [3] cities", "Destroyed when the city is captured"],
+		"quote": "No cost too great.",
 		"requiredTech": "Iron Working"
 	},
 	{
@@ -36,7 +36,7 @@
 		"cost": 250,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
-		"uniques": ["[10]% [Science]"]
+		"uniques": ["[10]% [Science]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -56,4 +56,5 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"requiredTech": "Optics"
+    }
 ]
