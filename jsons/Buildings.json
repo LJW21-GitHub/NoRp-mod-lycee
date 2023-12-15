@@ -27,7 +27,7 @@
 		"uniqueTo": "Unseen Lands",
 		"cost" : 150,
 		"cityHealth": 100,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -35,8 +35,7 @@
 		"uniqueTo": "Hallownest",
 		"cost": 250,
 		"hurryCostModifier": 150,
-		"isNationalWonder": true
-		"cityStrength": 
+		"isNationalWonder": true,
 		"uniques": ["[10]% [Science]"]
 		"requiredTech": "Writing"
 	},
@@ -45,15 +44,16 @@
 		"uniqueTo": "Hallownest",
 		"cost": 170,
 		"hurryCostModifier": 150,
-		"isNationalWonder": true
-		"requiredTech": "currency"
+		"cityStrength": 10,
+		"cityHealth": 75,
+		"isNationalWonder": true,
+		"requiredTech": "Currency"
 	},
 	{
 		"name": "l'Observatoire",
 		"uniqueTo": "Hallownest",
 		"cost": 280,
 		"hurryCostModifier": 150,
-		"isNationalWonder": true
-		"requiredTech": "optics"
-]
+		"isNationalWonder": true,
+		"requiredTech": "Optics"
 ]
