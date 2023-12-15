@@ -36,7 +36,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Science]",
+			"[10]% [Culture]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
@@ -59,7 +59,9 @@
 		"cost": 120,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": [
+			"[10]% [Science]",
+			"Destroyed when the city is captured"],
 		"requiredTech": "Optics"
     },
 	{
