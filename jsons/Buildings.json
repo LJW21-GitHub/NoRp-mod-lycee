@@ -18,22 +18,21 @@
 		"hurryCostModifier": 150,
 		"happiness": 5,
 		"isNationalWonder": true,
-		"uniques": ["Free [Pure Vessel] appears", "Requires a [Bench] in all cities", "Requires a [Bench] in at least [3] cities", "Destroyed when the city is captured"],
+		"uniques": ["Free [Pure Vessel] appears",
+			"Requires a [Bench] in all cities",
+			"Requires a [Bench] in at least [3] cities",
+			"Destroyed when the city is captured",
+			"Requires a [Archives de l'érudite] in at least [1] cities",
+			"Requires a [L'Antre de la bête] in at least [1] cities",
+			"Requires a [L'Observatoire] in at least [1] cities"],
 		"quote": "No cost too great.",
 		"requiredTech": "Iron Working"
 	},
 	{
-		"name": "Shelter",
-		"uniqueTo": "Unseen Lands",
-		"cost" : 150,
-		"cityHealth": 100,
-		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
-	},
-	{
 		"name": "Archives de l'érudite",
 		"uniqueTo": "Hallownest",
-		"cost": 250,
+		"maintenance": 2,
+		"cost": 100,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": ["[10]% [Science]"],
@@ -42,19 +41,32 @@
 	{
 		"name": "L'Antre de la bête",
 		"uniqueTo": "Hallownest",
-		"cost": 170,
+		"maintenance": 2,
+		"cost": 150,
 		"hurryCostModifier": 150,
 		"cityStrength": 10,
 		"cityHealth": 75,
 		"isNationalWonder": true,
+		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Currency"
 	},
 	{
 		"name": "L'Observatoire",
 		"uniqueTo": "Hallownest",
-		"cost": 280,
+		"maintenance": 2,
+		"cost": 120,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
+		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Optics"
-    }
+    },
+	{
+		"name": "Shelter",
+		"uniqueTo": "Unseen Lands",
+		"maintenance": 3,
+		"cost" : 150,
+		"cityHealth": 150,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Metal Casting"
+	}
 ]
