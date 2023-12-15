@@ -29,5 +29,32 @@
 		"cityHealth": 100,
 		"uniques": ["Destroyed when the city is captured"]
 		"requiredTech": "Metal Casting"
-	}
+	},
+	{
+		"name": "Archives de l'érudite",
+		"uniqueTo": "Hallownest",
+		"cost": 250,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"cityStrength": 
+		"uniques": ["[10]% [Science]"]
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "l'Antre de la bete",
+		"uniqueTo": "Hallownest",
+		"cost": 170,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"requiredTech": "currency"
+	},
+	{
+		"name": "l'Observatoire",
+		"uniqueTo": "Hallownest",
+		"cost": 280,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"uniques": [
+		"requiredTech": "optics"
+]
 ]
