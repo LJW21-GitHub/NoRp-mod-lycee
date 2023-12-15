@@ -40,7 +40,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "l'Antre de la bete",
+		"name": "L'Antre de la bête",
 		"uniqueTo": "Hallownest",
 		"cost": 170,
 		"hurryCostModifier": 150,
@@ -50,7 +50,7 @@
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "l'Observatoire",
+		"name": "L'Observatoire",
 		"uniqueTo": "Hallownest",
 		"cost": 280,
 		"hurryCostModifier": 150,
