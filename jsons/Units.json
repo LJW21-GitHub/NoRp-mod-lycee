@@ -61,7 +61,7 @@
     "name": "Great Prophet Saint",
     "uniqueTo": "Unseen Lands",
     "replaces": "Great Prophet",
-    "unitType": "Civilian",
+    "unitType": "Slugcat",
     "uniques": [
     	"Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
 		"Can Spread Religion <for [2] movement> <[5] times> <after which this unit is consumed>",
@@ -78,7 +78,7 @@
 		"name": "Missionary Saint",
 		"replaces": "Missionary",
 		"uniqueTo": "Unseen Lands",
-		"unitType": "Civilian",
+		"unitType": "Slugcat",
 		"uniques": [
             "Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>",
             "May enter foreign tiles without open borders, but loses [225] religious strength each turn it ends there",
@@ -91,7 +91,7 @@
 		"name": "Inquisitor Saint",
 		"replaces": "Inquisitor",
 		"uniqueTo": "Unseen Lands",
-		"unitType": "Civilian",
+		"unitType": "Slugcat",
 		"uniques": ["Prevents spreading of religion to the city it is next to",
 			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
@@ -113,7 +113,7 @@
 	{
 		"name": "Spearmaster",
 		"uniqueTo": "Unseen Lands",
-		"unitType": "Sword",
+		"unitType": "Slugcat",
 		"replaces": "Spearman",
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
@@ -125,7 +125,7 @@
 	{
 		"name": "Gourmand",
 		"uniqueTo": "Unseen Lands",
-		"unitType": "Armored",
+		"unitType": "Slugcat",
 		"cost": 350,
 		"requiredTech": "Refrigeration",
 		"obsoleteTech": "Mobile Tactics",
@@ -136,7 +136,7 @@
 	{
 		"name": "Monk",
 		"uniqueTo": "Unseen Lands",
-		"unitType": "Civilian",
+		"unitType": "Slugcat",
 		"cost": 250,
 		"movement": 3,
 		"requiredTech": "Philosophy",
