@@ -130,7 +130,7 @@
 		"requiredTech": "Refrigeration",
 		"obsoleteTech": "Plastics",
 		"movement": 2,
-		"strength": 40,
-		"uniques": ["[+50]% Strength <when defending>"]
+		"strength": 50,
+		"uniques": ["[+100]% Strength <when defending>"]
 	}
 ]
