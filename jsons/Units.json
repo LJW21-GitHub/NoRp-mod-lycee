@@ -109,5 +109,13 @@
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
 			"Invisible to non-adjacent units"]
+	},
+	{
+		"name": "Spearmaster",
+		"uniqueTo": "Unseen Lands",
+		"replaces": "Spearman",
+		"cost": 75,
+		"movement": 3,
+		"strength": 15,
 	}
 ]
