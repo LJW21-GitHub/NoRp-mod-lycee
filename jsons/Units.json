@@ -142,6 +142,17 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
-			"All adjacent units heal [10] HP when healing <when not at war>"]
+			"All adjacent units heal [10] HP when healing <when not at war>",
+			"Unbuildable <when at war>", "Cannot be purchased <when at war>"]
 	},
+	{
+		"name": "Rain Deer",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Civilian",
+		"cost": 500,
+		"movement": 3,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["All tiles cost 1 movement",
+			"Can carry [3] [Slugcat] units",]
+	}
 ]
