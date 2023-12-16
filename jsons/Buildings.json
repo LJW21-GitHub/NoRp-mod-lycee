@@ -16,7 +16,11 @@
 		"maintenance": 5,
 		"cost": 500,
 		"hurryCostModifier": 150,
-		"happiness": 5,
+		"happiness": 7,
+		"culture": 10,
+		"science": 10,
+		"cityHealth": 150,
+		"cityStrength": 20,
 		"isNationalWonder": true,
 		"uniques": ["Free [Pure Vessel] appears",
 			"Requires a [Bench] in all cities",
@@ -24,7 +28,8 @@
 			"Destroyed when the city is captured",
 			"Requires a [Archives de l'érudite] in at least [1] cities",
 			"Requires a [L'Antre de la bête] in at least [1] cities",
-			"Requires a [L'Observatoire] in at least [1] cities"],
+			"Requires a [L'Observatoire] in at least [1] cities",
+			"Triggers a global alert upon completion"],
 		"quote": "No cost too great.",
 		"requiredTech": "Iron Working"
 	},
@@ -72,5 +77,14 @@
 		"cityHealth": 150,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Five Pebbles Superstructure lvl 1",
+		"uniqueTo": "Unseen Lands",
+		"maintenance": 3,
+		"cost" : 150,
+		"science": 3,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Masonry"
 	}
 ]
