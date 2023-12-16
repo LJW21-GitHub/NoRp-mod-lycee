@@ -41,7 +41,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Culture]",
+			"[10]% [Culture] <in this city>",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
