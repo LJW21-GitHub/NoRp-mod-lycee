@@ -1,0 +1,244 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Archives de l'érudite
+  rotate: false
+  xy: 637, 1490
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bench
+  rotate: false
+  xy: 530, 145
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+BuildingIcons/L'Antre de la bête
+  rotate: false
+  xy: 112, 42
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+BuildingIcons/L'Observatoire
+  rotate: false
+  xy: 195, 42
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shelter
+  rotate: false
+  xy: 4, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de l'Œuf Noir
+  rotate: false
+  xy: 1911, 1823
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+NationIcons/Hallownest
+  rotate: false
+  xy: 530, 190
+  size: 320, 350
+  orig: 320, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Unseen Lands
+  rotate: false
+  xy: 637, 1463
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gourmand
+  rotate: false
+  xy: 1306, 1482
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Prophet Saint
+  rotate: false
+  xy: 4, 1056
+  size: 625, 500
+  orig: 625, 500
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight
+  rotate: false
+  xy: 1306, 1690
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 2
+  rotate: false
+  xy: 1306, 1690
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 3
+  rotate: false
+  xy: 1306, 1690
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hollow Knight 4
+  rotate: false
+  xy: 1306, 1690
+  size: 469, 349
+  orig: 469, 349
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Inquisitor Saint
+  rotate: false
+  xy: 712, 1605
+  size: 586, 434
+  orig: 586, 434
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missionary Saint
+  rotate: false
+  xy: 4, 548
+  size: 625, 500
+  orig: 625, 500
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Monk
+  rotate: false
+  xy: 1614, 1483
+  size: 275, 199
+  orig: 275, 199
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Overseer
+  rotate: false
+  xy: 4, 37
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pure Vessel
+  rotate: false
+  xy: 4, 125
+  size: 518, 415
+  orig: 518, 415
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pure Vessel 2
+  rotate: false
+  xy: 4, 125
+  size: 518, 415
+  orig: 518, 415
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spearmaster
+  rotate: false
+  xy: 4, 1564
+  size: 700, 475
+  orig: 700, 475
+  offset: 0, 0
+  index: -1
+UnitIcons/Gourmand
+  rotate: false
+  xy: 1879, 1759
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Prophet Saint
+  rotate: false
+  xy: 1783, 1919
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight
+  rotate: false
+  xy: 1783, 1695
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 2
+  rotate: false
+  xy: 1783, 1695
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 3
+  rotate: false
+  xy: 1783, 1695
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Hollow Knight 4
+  rotate: false
+  xy: 1783, 1695
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+UnitIcons/Inquisitor Saint
+  rotate: false
+  xy: 1783, 1791
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Missionary Saint
+  rotate: false
+  xy: 1911, 1919
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Monk
+  rotate: false
+  xy: 1911, 1791
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+UnitIcons/Overseer
+  rotate: false
+  xy: 712, 1571
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+UnitIcons/Pure Vessel
+  rotate: false
+  xy: 278, 94
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+UnitIcons/Pure Vessel 2
+  rotate: false
+  xy: 278, 94
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+UnitIcons/Spearmaster
+  rotate: false
+  xy: 2007, 1887
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
