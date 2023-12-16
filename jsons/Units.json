@@ -115,8 +115,22 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Sword",
 		"replaces": "Spearman",
+		"requiredTech": "Bronze Working",
+		"obsoleteWith": "Civil Service",
 		"cost": 75,
 		"movement": 3,
-		"strength": 15,
+		"strength": 13,
+		"rangedStrength": 15
+	},
+	{
+		"name": "Gourmand",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Armored",
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"obsoleteWith": "Plastics"
+		"movement": 2,
+		"strength": 40,
+		"uniques": ["[+50]% Strength <when defending>"]
 	}
 ]
