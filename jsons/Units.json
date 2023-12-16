@@ -95,7 +95,7 @@
 		"uniques": ["Prevents spreading of religion to the city it is next to",
 			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[+2] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
+			"[+2] Sight", "Hidden when religion is disabled", "Religious Unit"
 		],
 		"movement": 4
 	},
