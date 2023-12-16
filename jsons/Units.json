@@ -104,7 +104,8 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Civilian",
 		"cost": 25,
-		"uniques": ["May enter foreign tiles without open borders"],
-		"strength": 999
+		"movement": 3,
+		"requiredTech": "Optics"
+		"uniques": ["May enter foreign tiles without open borders", "Uncapturable"]
 	}
 ]
