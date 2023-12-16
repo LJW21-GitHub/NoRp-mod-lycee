@@ -132,5 +132,16 @@
 		"movement": 2,
 		"strength": 50,
 		"uniques": ["[+100]% Strength <when defending>"]
-	}
+	},
+	{
+		"name": "Monk",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Civilian",
+		"cost": 250,
+		"movement": 3,
+		"requiredTech": "Philosophy",
+		"uniques": ["May enter foreign tiles without open borders",
+			"Uncapturable",
+			"All adjacent units heal [10] HP when healing <when not at war>"]
+	},
 ]
