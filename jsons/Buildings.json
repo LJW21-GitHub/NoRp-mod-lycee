@@ -65,7 +65,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Science]",
+			"[10]% [Science] <in this city>",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Optics"
     },
