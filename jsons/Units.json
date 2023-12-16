@@ -1,5 +1,13 @@
 [
   {
+	  "name": "Ambassadeur",
+	  "unitType": "Civilian"
+	  "cost": 100,
+	  "movement": 2,
+	  "requiredTech": "Civil Service",
+	  "uniques": ["Unbuildable <when at war>", "Cannot be purchased <when at war>", "Can build [Ambassade] improvements on tiles <in [Friendly Land] tiles>"]
+  },
+  {
     "name": "Pure Vessel",
     "unitType": "Sword",
     "uniques": ["Unbuildable", "Can move after attacking"] ,
