@@ -77,14 +77,5 @@
 		"cityHealth": 150,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
-	},
-	{
-		"name": "Five Pebbles Superstructure lvl 1",
-		"uniqueTo": "Unseen Lands",
-		"maintenance": 3,
-		"cost" : 150,
-		"science": 3,
-		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Masonry"
 	}
 ]
