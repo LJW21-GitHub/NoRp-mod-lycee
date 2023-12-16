@@ -1,6 +1,6 @@
 [
   {
-	"name": "Ambassadeur",
+    "name": "Ambassadeur",
 	"unitType": "Civilian"
 	"cost": 100,
 	"movement": 2,
