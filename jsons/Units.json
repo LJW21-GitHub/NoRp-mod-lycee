@@ -128,7 +128,7 @@
 		"unitType": "Armored",
 		"cost": 350,
 		"requiredTech": "Refrigeration",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
 		"movement": 2,
 		"strength": 50,
 		"uniques": ["[+100]% Strength <when defending>"]
