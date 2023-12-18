@@ -105,7 +105,6 @@
 		"unitType": "Civilian",
 		"cost": 150,
 		"movement": 3,
-		"requiredTech": "Optics",
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
 			"Invisible to non-adjacent units"]
@@ -144,5 +143,15 @@
 			"Uncapturable",
 			"All adjacent units heal [10] HP when healing <when not at war>",
 			"Unbuildable <when at war>", "Cannot be purchased <when at war>"]
-	}
+	},
+	{
+		"name": "Crawlid",
+		"uniqueTo": "Hallownest",
+		"unitType": "Civilian",
+		"cost": 150,
+		"movement": 3,
+		"uniques": ["May enter foreign tiles without open borders",
+			"Uncapturable",
+			"Invisible to non-adjacent units"]
+	},
 ]
