@@ -159,10 +159,33 @@
 		"name": "Gourmand",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"cost": 350,
+		"cost": 75,
 		"requiredTech": "Trapping",
+		"obsoleteTech": "Civil Service"
 		"movement": 2,
-		"strength": 50,
+		"strength": 7,
+		"uniques": ["[+100]% Strength <when defending>"]
+	},
+	{
+		"name": "Gourmand 2",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"cost": 75,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Civil Service"
+		"movement": 2,
+		"strength": 13,
+		"uniques": ["[+100]% Strength <when defending>"]
+	},
+	{
+		"name": "Gourmand 3",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"cost": 75,
+		"requiredTech": "Mettalurgy",
+		"obsoleteTech": "Civil Service"
+		"movement": 2,
+		"strength": 20,
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
