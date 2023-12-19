@@ -100,16 +100,6 @@
 		"movement": 4
 	},
 	{
-		"name": "Overseer",
-		"uniqueTo": "Unseen Lands",
-		"unitType": "Civilian",
-		"cost": 150,
-		"movement": 3,
-		"uniques": ["May enter foreign tiles without open borders",
-			"Uncapturable",
-			"Invisible to non-adjacent units"]
-	},
-	{
 		"name": "Spearmaster",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
@@ -137,7 +127,7 @@
 		"unitType": "Slugcat",
 		"requiredTech": "Industrialization",
 		"obsoleteTech": "Balistics",
-		"cost": 150,
+		"cost": 250,
 		"movement": 3,
 		"strength": 23,
 		"rangedStrength": 37
@@ -147,11 +137,23 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"requiredTech": "Balistics",
-		"obsoleteTech": "Civil Service",
-		"cost": 150,
+		"obsoleteTech": "Rocketry",
+		"cost": 400,
+		"range": 3,
 		"movement": 3,
 		"strength": 50,
 		"rangedStrength": 65
+	},
+	{
+		"name": "Spearmaster 5",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"requiredTech": "Rocketry",
+		"cost": 450,
+		"range": 3,
+		"movement": 3,
+		"strength": 55,
+		"rangedStrength": 80
 	},
 	{
 		"name": "Gourmand",
@@ -176,6 +178,17 @@
 			"Unbuildable <when at war>", "Cannot be purchased <when at war>"]
 	},
 	{
+		"name": "Overseer",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Civilian",
+		"cost": 150,
+		"movement": 3,
+		"uniques": ["May enter foreign tiles without open borders",
+			"Uncapturable",
+			"Limited to [3] per Civilization",
+			"Invisible to non-adjacent units"]
+	},
+	{
 		"name": "Crawlid",
 		"uniqueTo": "Hallownest",
 		"unitType": "Civilian",
@@ -183,6 +196,7 @@
 		"movement": 3,
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
+			"Limited to [3] per Civilization",
 			"Invisible to non-adjacent units"]
 	},
 ]
