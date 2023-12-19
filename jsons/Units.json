@@ -114,11 +114,44 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Steel",
 		"cost": 75,
 		"movement": 3,
-		"strength": 13,
+		"strength": 10,
 		"rangedStrength": 15
+	},
+	{
+		"name": "Spearmaster 2",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"requiredTech": "Steel",
+		"obsoleteTech": "Industrialization",
+		"cost": 150,
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 20
+	},
+	{
+		"name": "Spearmaster 3",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"requiredTech": "Industrialization",
+		"obsoleteTech": "Balistics",
+		"cost": 150,
+		"movement": 3,
+		"strength": 23,
+		"rangedStrength": 37
+	},
+	{
+		"name": "Spearmaster 4",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"requiredTech": "Balistics",
+		"obsoleteTech": "Civil Service",
+		"cost": 150,
+		"movement": 3,
+		"strength": 50,
+		"rangedStrength": 65
 	},
 	{
 		"name": "Gourmand",
