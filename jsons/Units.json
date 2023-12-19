@@ -113,7 +113,6 @@
 		"name": "Spearmaster",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"replaces": "Spearman",
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"cost": 75,
@@ -126,8 +125,7 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"cost": 350,
-		"requiredTech": "Refrigeration",
-		"obsoleteTech": "Mobile Tactics",
+		"requiredTech": "Trapping",
 		"movement": 2,
 		"strength": 50,
 		"uniques": ["[+100]% Strength <when defending>"]
