@@ -138,4 +138,68 @@
       "Le repos éternel"
     ]
   }
+  {
+    "name": "URSS",
+    "leaderName": "J.Staline",
+    "adjective": [
+      "Comunisme"
+    ],
+    "preferredVictoryType": "atomisation",
+    "declaringWar": "tu veux la guerre? tu l'aura.",
+    "attacked": "TU LA EU.",
+    "defeated": "KYS",
+    "introduction": "viva das comunisme",
+    "neutralHello": "Hallo",
+    "neutralLetsHearIt": [
+      "Qu'as-tu à dire, petite pute ?",
+      "Quoi donc ?",
+      "Je dois reprendre mon commandemet. Dépêche-toi.",
+      "nous t'écoutons."
+    ],
+    "neutralNo": [
+      "Non.",
+      "nous n'acceptons pas."
+    ],
+    "neutralYes": [
+      "Je ferai tout ce qui est en mon pouvoir pour vous aider.",
+      "nous acceptons, petite pute.",
+      "D'accord."
+    ],
+    "hateHello": "Encore toi ? Je vais te niquer.",
+    "hateLetsHearIt": [
+      "Parle !",
+      "Je dois reprendre mon commandemet. Dépêche-toi grosse merde.",
+      "nous t'écoutons pas."
+    ],
+    "hateNo": [
+      "PARS.",
+      "VA T'EN.",
+      "Tu m'agace, petite pute. Va t'en !",
+      "que je ne te revois plus a moin de cinq milles metre de notre royaume."
+    ],
+    "hateYes": [
+      "D'accord.",
+      "J'accepte. Maintenant laisse moi tranquille.",
+      "mais ne compte plus sur nous la prochaine fois",
+      "Bien..."
+    ],
+    "afterPeace": "Cela ne résout les problèmes de personne d'autre que vous bande de merde.",
+    "tradeRequest": "Si vous accepter l'ofre tu aura la portection de notre royaume ?",
+    "outerColor": [
+      255,
+      0,
+      0
+    ],
+    "innerColor": [
+      255,
+      0,
+      255
+    ],
+    "cities": [
+      "Stalingrad",
+      "Naoukograd",
+      "Smolensk",
+      "moscou",
+      "kiev"
+    ]
 ]
