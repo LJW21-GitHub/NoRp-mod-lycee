@@ -126,7 +126,7 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"requiredTech": "Industrialization",
-		"obsoleteTech": "Balistics",
+		"obsoleteTech": "Ballistics",
 		"cost": 250,
 		"movement": 3,
 		"strength": 23,
@@ -136,7 +136,7 @@
 		"name": "Spearmaster 4",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
-		"requiredTech": "Balistics",
+		"requiredTech": "Ballistics",
 		"obsoleteTech": "Rocketry",
 		"cost": 400,
 		"range": 3,
@@ -172,7 +172,7 @@
 		"unitType": "Slugcat",
 		"cost": 75,
 		"requiredTech": "Civil Service",
-		"obsoleteTech": "Civil Service"
+		"obsoleteTech": "Metallurgy"
 		"movement": 2,
 		"strength": 13,
 		"uniques": ["[+100]% Strength <when defending>"]
@@ -182,7 +182,7 @@
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"cost": 75,
-		"requiredTech": "Mettalurgy",
+		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Civil Service"
 		"movement": 2,
 		"strength": 20,
