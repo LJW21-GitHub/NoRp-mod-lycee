@@ -200,7 +200,7 @@
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
-		"name": "Gourmand 4",
+		"name": "Gourmand 5",
 		"uniqueTo": "Unseen Lands",
 		"unitType": "Slugcat",
 		"cost": 75,
