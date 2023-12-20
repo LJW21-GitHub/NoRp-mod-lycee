@@ -183,9 +183,30 @@
 		"unitType": "Slugcat",
 		"cost": 75,
 		"requiredTech": "Metallurgy",
-		"obsoleteTech": "Civil Service"
+		"obsoleteTech": "Replaceable Parts"
 		"movement": 2,
 		"strength": 20,
+		"uniques": ["[+100]% Strength <when defending>"]
+	},
+	{
+		"name": "Gourmand 4",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"cost": 75,
+		"requiredTech": "Replaceable Parts",
+		"obsoleteTech": "Mobile Tactics"
+		"movement": 2,
+		"strength": 40,
+		"uniques": ["[+100]% Strength <when defending>"]
+	},
+	{
+		"name": "Gourmand 4",
+		"uniqueTo": "Unseen Lands",
+		"unitType": "Slugcat",
+		"cost": 75,
+		"requiredTech": "Mobile Tactics",
+		"movement": 2,
+		"strength": 75,
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
