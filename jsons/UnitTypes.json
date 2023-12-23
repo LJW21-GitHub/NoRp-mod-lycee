@@ -6,6 +6,6 @@
     {
         "name": "Espion",
         "movementType": "Land",
-        "uniques": ["Invisible to others", "Can see invisible [Espion] units"]
+        
     }
 ]
