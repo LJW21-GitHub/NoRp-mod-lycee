@@ -130,7 +130,8 @@
 		"cost": 250,
 		"movement": 3,
 		"strength": 23,
-		"rangedStrength": 37
+		"rangedStrength": 37,
+		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
 		"name": "Spearmaster 4",
@@ -142,7 +143,8 @@
 		"range": 3,
 		"movement": 3,
 		"strength": 50,
-		"rangedStrength": 65
+		"rangedStrength": 65,
+		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
 		"name": "Spearmaster 5",
@@ -153,7 +155,8 @@
 		"range": 3,
 		"movement": 3,
 		"strength": 55,
-		"rangedStrength": 80
+		"rangedStrength": 80,
+		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
 		"name": "Gourmand",
