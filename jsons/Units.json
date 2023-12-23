@@ -232,7 +232,7 @@
 		"movement": 3,
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
-			"Limited to [3] per Civilization",]
+			"Limited to [3] per Civilization"]
 	},
 	{
 		"name": "Crawlid",
@@ -242,6 +242,6 @@
 		"movement": 3,
 		"uniques": ["May enter foreign tiles without open borders",
 			"Uncapturable",
-			"Limited to [3] per Civilization",]
+			"Limited to [3] per Civilization"]
 	},
 ]
