@@ -7,4 +7,5 @@
         "name": "Espion",
         "movementType": "Land",
         "uniques": ["Invisible to non-adjacent units"]
+    }
 ]
