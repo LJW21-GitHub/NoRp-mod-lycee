@@ -84,7 +84,7 @@
 	{
 		"name": "Restorant de Rémi",
 		"uniqueTo": "Disney",
-		"requiredNearbyImprovedResources": ["Spices"],
-		"uniques": ["Must have an owned [Farm] within [3] tiles"]
+		"requiredNearbyImprovedResources": ["Spices", "Salt"],
+		"uniques": ["[+100]% [Food] [in this city]", "[+7 Happiness] [in this city]"]
 	},
 ]
