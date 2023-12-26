@@ -81,9 +81,9 @@
 		"requiredTech": "Metal Casting"
 	},
 //////////////// DISNEY ////////////////
-//	{
-		"name": "Restaurant de Rémi",
-		"uniqueTo": "Disney",
-		"cost": ""
-	}//
+//WIP	{
+//WIP		"name": "Restaurant de Rémi",
+//WIP		"uniqueTo": "Disney",
+//WIP		"cost": ""
+//WIP	}
 ]
