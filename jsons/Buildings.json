@@ -12,11 +12,6 @@
 		"requiredResource": "Iron"
 	},
 	{
-		"name": "test",
-		"uniqueTo": "Hallownest",
-		"uniques": ["Triggers a global alert upon completion"]
-	},
-	{
 		"name": "Temple de l'Œuf Noir",
 		"uniqueTo": "Hallownest",
 		"maintenance": 5,
@@ -89,6 +84,7 @@
 	{
 		"name": "Restorant de Rémi",
 		"uniqueTo": "Disney",
-		
+		"requiredNearbyImprovedResources": ["Spices"],
+		"uniques": ["Must have an owned [Farm] within [3] tiles"]
 	},
 ]
