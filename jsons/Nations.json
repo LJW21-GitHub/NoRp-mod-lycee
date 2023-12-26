@@ -184,7 +184,7 @@
     "afterPeace": "Les monstres arrêteront de vous hanter par les portes.",
     "tradeRequest": "Es-tu d'accord avec moi Bubulle ? ",
     "uniqueName": "Disneyland",
-    "uniques": ["[+20]% [Production] [in capital] <when not at war> <when between [15] and [999] Happiness>", "[+3 Happiness] from each Trade Route"]
+    "uniques": ["[+20]% [Production] [in capital] <when not at war> <when between [15] and [999] Happiness>", "[+3 Happiness] from each Trade Route"],
     "outerColor": [
       153,
       204,
