@@ -44,6 +44,7 @@
     ],
     "afterPeace": "Sachez que cela ne résout les problèmes de personne d'autre que vous.",
     "tradeRequest": "Qu'en penses-tu, petite créature ?",
+    "uniqueName": "Memory Conflux",
     "uniques": [
       "[+3 Science] per [5] population [in all cities]"
     ],
@@ -179,7 +180,8 @@
     ],
     "afterPeace": "Les monstres arrêteront de vous hanter par les portes.",
     "tradeRequest": "Es-tu d'accord avec moi Bubulle ? ",
-    "uniques": [""]
+    "uniqueName": "Disneyland",
+    "uniques": ["[+20]% [Production] [in capital] <when not at war> <when between [15] and [999] Happiness>", "[+3 happiness] from each Trade Route"]
     "outerColor": [
       153,
       204,
