@@ -12,6 +12,10 @@
 		"requiredResource": "Iron"
 	},
 	{
+		"name": "test",
+		"uniqueTo": "Hallownest",
+	},
+	{
 		"name": "Temple de l'Œuf Noir",
 		"uniqueTo": "Hallownest",
 		"maintenance": 5,
@@ -30,7 +34,7 @@
 			"Requires a [Archives de l'érudite] in at least [1] cities",
 			"Requires a [L'Antre de la bête] in at least [1] cities",
 			"Requires a [L'Observatoire] in at least [1] cities",
-			"Triggers a global alert upon completion"],
+			"Triggers the following global alert: [Aucun prix n'est trop grand... Hallownest a invoqué le Pure Vessel !]"],
 		"quote": "No cost too great.",
 		"requiredTech": "Iron Working"
 	},
@@ -81,4 +85,9 @@
 		"requiredTech": "Metal Casting"
 	},
 //////////////// DISNEY ////////////////
+	{
+		"name": "Restorant de Rémi",
+		"uniqueTo": "Disney",
+		
+	},
 ]
