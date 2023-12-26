@@ -1,4 +1,5 @@
 [
+//////////////// UNSEEN LANDS ////////////////
   {
     "name": "Unseen Lands",
     "leaderName": "Five Pebbles",
@@ -81,7 +82,8 @@
       "Rubicon"
     ]
   },
-//hfghc  {
+//////////////// HALLOWNEST ////////////////
+  {
     "name": "Hallownest",
     "leaderName": "Le roi pâle",
     "adjective": [
@@ -142,6 +144,7 @@
       "Le repos éternel"
     ]
   },
+//////////////// DISNEY ////////////////
   {
     "name": "Disney",
     "leaderName": "Penny",
