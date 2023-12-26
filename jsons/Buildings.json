@@ -1,4 +1,5 @@
 [
+//////////////// HALLOWNEST ////////////////
 	{
 		"name": "Bench",
 		"uniqueTo": "Hallownest",
@@ -69,6 +70,7 @@
 			"Destroyed when the city is captured"],
 		"requiredTech": "Optics"
     },
+//////////////// UNSEEN LANDS ////////////////
 	{
 		"name": "Shelter",
 		"uniqueTo": "Unseen Lands",
@@ -77,5 +79,11 @@
 		"cityHealth": 150,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
+	},
+//////////////// DISNEY ////////////////
+	{
+		"name": "Restaurant de Rémi",
+		"uniqueTo": "Disney",
+		"cost": ""
 	}
 ]
