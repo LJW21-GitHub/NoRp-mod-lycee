@@ -14,6 +14,7 @@
 	{
 		"name": "test",
 		"uniqueTo": "Hallownest",
+		"uniques": ["Triggers the following global alert: [Aucun prix n'est trop grand... Hallownest a invoqué le Pure Vessel !]"]
 	},
 	{
 		"name": "Temple de l'Œuf Noir",
