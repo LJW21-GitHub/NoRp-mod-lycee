@@ -7,7 +7,10 @@
 		"uniques": [
 			"Unbuildable <for [Unseen Lands]>",
 			"Cannot be purchased <for [Unseen Lands]>",
-			"Can only be built [in capital] <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Hallownest]> <in cities without a [Colonie - Ukraine]>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Colonie - Hallownest]>",
+			"Only available <in cities without a [Colonie - Disney]>",
+			"Only available <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -24,7 +27,8 @@
 		"uniques": [
 			"Triggers a global alert upon completion",
 			"Remove [Colonie - Unseen Lands] [in capital]",
-			"Can only be built [in capital] <in cities with a [Colonie - Unseen Lands]>"]
+			"Can only be built [in capital]",
+			"Only available <in cities with a [Colonie - Unseen Lands]>"]
 	},
 	{
 		"name": "Colonie - Hallownest",
@@ -32,7 +36,9 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Ukraine]>",
+			"Only available <in cities without a [Colonie - Unseen Lands]>",
+			"Only available <in cities without a [Colonie - Disney]>",
+			"Only available <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -49,7 +55,8 @@
 		"uniques": [
 			"Triggers a global alert upon completion",
 			"Remove [Colonie - Hallownest] [in capital]",
-			"Can only be built [in capital] <in cities with a [Colonie - Hallownest]>"]
+			"Can only be built [in capital]",
+			"Only available <in cities with a [Colonie - Hallownest]>"]
 	},
 	{
 		"name": "Colonie - Disney",
@@ -59,7 +66,9 @@
 			"Unbuildable <for [Disney]>",
 			"Cannot be purchased <for [Disney]>",
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Hallownest]> <in cities without a [Colonie - Ukraine]>",
+			"Only available <in cities without a [Colonie - Hallownest]>",
+			"Only available <in cities without a [Colonie - Unseen Lands]>",
+			"Only available <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -76,7 +85,8 @@
 		"uniques": [
 			"Triggers a global alert upon completion",
 			"Remove [Colonie - Disney] [in capital]",
-			"Can only be built [in capital] <in cities with a [Colonie - Disney]>"]
+			"Can only be built [in capital]",
+			"Only available <in cities with a [Colonie - Disney]>"]
 	},
 	{
 		"name": "Colonie - Ukraine",
@@ -86,7 +96,9 @@
 			"Unbuildable <for [Ukraine]>",
 			"Cannot be purchased <for [Ukraine]>",
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Hallownest]>",
+			"Only available <in cities without a [Colonie - Hallownest]>",
+			"Only available <in cities without a [Colonie - Disney]>",
+			"Only available <in cities without a [Colonie - Unseen Lands]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -103,7 +115,8 @@
 		"uniques": [
 			"Triggers a global alert upon completion",
 			"Remove [Colonie - Ukraine] [in capital]",
-			"Can only be built [in capital] <in cities with a [Colonie - Ukraine]>"]
+			"Can only be built [in capital]",
+			"Only available <in cities with a [Colonie - Ukraine]>"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
