@@ -1,7 +1,7 @@
 [
 //////////////// COMMUNS ////////////////
 	{
-		"name": "Transformer en colonie",
+		"name": "Colonie d'Unseen Lands",
 		"cost": 1,
 		"maintenance": 50,
 		"requiredTech": "Civil Service",
