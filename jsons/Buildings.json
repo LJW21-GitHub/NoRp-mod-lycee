@@ -2,14 +2,19 @@
 //////////////// COMMUNS ////////////////
 	{
 		"name": "Transformer en colonie",
+		"cost": 1,
+		"maintenance": 50,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"Nullifies Growth [in this city]",
-			"[-100]% [Culture] [in this city]",
-			"[-100]% [Faith] [in this city]",
-			"[-100]% [Science] [in this city]",
-			"Unbuildable <in cities with a [Wonder]>",
-			"Cannot be purchased <in cities with a [Wonder]>"]
+			"Nullifies Growth [in all cities]",
+			"[-50]% [Culture] [in all cities]",
+			"[-50]% [Faith] [in all cities]",
+			"[-50]% [Science] [in all cities]",
+			"Unsellable <in cities without a [Proclamation d'Indépendance]>",
+			"Triggers the following global alert: [comment] <upon being constructed>"]
+	},
+	{
+		
 	},
 //////////////// HALLOWNEST ////////////////
 	{
