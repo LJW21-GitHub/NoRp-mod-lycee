@@ -2,7 +2,7 @@
 //////////////// COMMUNS ////////////////
 	{
 		"name": "Transformer en colonie",
-		//"requiredTech": "Civil Service",
+		"requiredTech": "Civil Service",
 		"uniques": [
 			"Nullifies Growth [in this city]",
 			"[-100]% [Culture] [in this city]",
