@@ -5,10 +5,10 @@
 		//"requiredTech": "Civil Service",
 		"uniques": [
 			"Nullifies Growth [in this city]",
-			"Nullifies [Culture] [in all cities]",
-			"Nullifies [Faith] [in this city]",
-			"Nullifies [Science] [in this city]",
-			"Nullifies [Happiness] [in this city]"]
+			"Nullifies [Culture]",
+			"Nullifies [Faith]",
+			"Nullifies [Science]",
+			"Nullifies [Happiness]"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
