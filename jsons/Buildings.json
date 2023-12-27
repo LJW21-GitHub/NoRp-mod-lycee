@@ -7,11 +7,9 @@
 			"Nullifies Growth [in this city]",
 			"[-100]% [Culture] [in this city]",
 			"[-100]% [Faith] [in this city]",
-			"[-100]% [Science] [in this city]"]
-	},
-	{
-		"name": "test"
-		"uniques": ["[+50]% [Culture] [in this city]"]
+			"[-100]% [Science] [in this city]",
+			"Unbuildable <in cities with a [Wonder]>",
+			"Cannot be purchased <in cities with a [Wonder]>"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
