@@ -3,8 +3,7 @@
 	{
 		"name": "Colonie d'Unseen Lands",
 		"cost": 1,
-		"maintenance": 50,
-		"requiredTech": "Civil Service",
+		//"requiredTech": "Civil Service",
 		"uniques": [
 			"Can only be built [in capital]",
 			"Nullifies Growth [in all cities]",
