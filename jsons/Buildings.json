@@ -7,7 +7,7 @@
 		"uniques": [
 			"Unbuildable <for [Unseen Lands]>",
 			"Cannot be purchased <for [Unseen Lands]>",
-			"Can only be built [in capital] <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Hallownest]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Hallownest]> <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -31,7 +31,7 @@
 		"cost": 1,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Disney]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -57,7 +57,7 @@
 		"uniques": [
 			"Unbuildable <for [Disney]>",
 			"Cannot be purchased <for [Disney]>",
-			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Hallownest]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Hallownest]> <in cities without a [Colonie - Ukraine]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
@@ -72,11 +72,35 @@
 		"name": "Indépendance - Disney",
 		"cost": 1,
 		"uniques": [
-			"Unbuildable <for [Disney]>",
-			"Cannot be purchased <for [Disney]>",
 			"Triggers a global alert upon completion",
 			"Remove [Colonie d'Unseen Lands] [in capital]",
 			"Can only be built [in capital] <in cities with a [Colonie - Disney]>"]
+	},
+	{
+		"name": "Colonie - Ukraine",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Unbuildable <for [Ukraine]>",
+			"Cannot be purchased <for [Ukraine]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Hallownest]> <in cities without a [Colonie - Disney]>",
+			"Nullifies Growth [in all cities]",
+			"[-50]% [Culture] [in all cities]",
+			"[-50]% [Faith] [in all cities]",
+			"[-50]% [Science] [in all cities]",
+			"[-50]% [Production] [in all cities]",
+			"[-50]% [Gold] [in all cities]",
+			"[-50]% [Food] [in all cities]",
+			"Unsellable",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Indépendance - Ukraine",
+		"cost": 1,
+		"uniques": [
+			"Triggers a global alert upon completion",
+			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Can only be built [in capital] <in cities with a [Colonie - Ukraine]>"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
