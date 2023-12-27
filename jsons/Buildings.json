@@ -9,6 +9,10 @@
 			"[-100]% [Faith] [in this city]",
 			"[-100]% [Science] [in this city]"]
 	},
+	{
+		"name": "test"
+		"uniques": ["[+50]% [Culture] [in this city]"]
+	},
 //////////////// HALLOWNEST ////////////////
 	{
 		"name": "Bench",
