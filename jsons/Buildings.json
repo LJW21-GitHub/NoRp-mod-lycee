@@ -1,24 +1,82 @@
 [
-//////////////// COMMUNS ////////////////
+//////////////// COLONIES ////////////////
 	{
-		"name": "Colonie d'Unseen Lands",
+		"name": "Colonie - Unseen Lands",
 		"cost": 1,
-		//"requiredTech": "Civil Service",
+		"requiredTech": "Civil Service",
 		"uniques": [
-			"Can only be built [in capital]",
+			"Unbuildable <for [Unseen Lands]>",
+			"Cannot be purchased <for [Unseen Lands]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Disney]> <in cities without a [Colonie - Hallownest]>",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
 			"[-50]% [Science] [in all cities]",
+			"[-50]% [Production] [in all cities]",
+			"[-50]% [Gold] [in all cities]",
+			"[-50]% [Food] [in all cities]",
 			"Unsellable",
-			"Triggers the following global alert: [test] <upon constructing [Colonie d'Unseen Lands]>"]
+			"Triggers a global alert upon completion"]
 	},
 	{
-		"name": "Proclamation d'Indépendance - Unseen Lands",
+		"name": "Indépendance - Unseen Lands",
+		"cost": 1,
 		"uniques": [
-			"Triggers the following global alert: [test 2] <upon constructing [Proclamation d'Indépendance - Unseen Lands]>",
+			"Triggers a global alert upon completion",
 			"Remove [Colonie d'Unseen Lands] [in capital]",
-			"Can only be built [in capital]"]
+			"Can only be built [in capital] <in cities with a [Colonie - Unseen Lands]>"]
+	},
+	{
+		"name": "Colonie - Hallownest",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Disney]>",
+			"Nullifies Growth [in all cities]",
+			"[-50]% [Culture] [in all cities]",
+			"[-50]% [Faith] [in all cities]",
+			"[-50]% [Science] [in all cities]",
+			"[-50]% [Production] [in all cities]",
+			"[-50]% [Gold] [in all cities]",
+			"[-50]% [Food] [in all cities]",
+			"Unsellable",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Indépendance - Hallownest",
+		"cost": 1,
+		"uniques": [
+			"Triggers a global alert upon completion",
+			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Can only be built [in capital] <in cities with a [Colonie - Hallownest]>"]
+	},
+	{
+		"name": "Colonie - Disney",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Unbuildable <for [Disney]>",
+			"Cannot be purchased <for [Disney]>",
+			"Can only be built [in capital] <in cities without a [Colonie - Unseen Lands]> <in cities without a [Colonie - Hallownest]>",
+			"Nullifies Growth [in all cities]",
+			"[-50]% [Culture] [in all cities]",
+			"[-50]% [Faith] [in all cities]",
+			"[-50]% [Science] [in all cities]",
+			"[-50]% [Production] [in all cities]",
+			"[-50]% [Gold] [in all cities]",
+			"[-50]% [Food] [in all cities]",
+			"Unsellable",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Indépendance - Disney",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable <for [Disney]>",
+			"Cannot be purchased <for [Disney]>",
+			"Triggers a global alert upon completion",
+			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Can only be built [in capital] <in cities with a [Colonie - Disney]>"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
