@@ -6,15 +6,20 @@
 		"maintenance": 50,
 		"requiredTech": "Civil Service",
 		"uniques": [
+			"Can only be built [in capital]",
 			"Nullifies Growth [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
 			"[-50]% [Science] [in all cities]",
-			"Unsellable <in cities without a [Proclamation d'Indépendance]>",
-			"Triggers the following global alert: [comment] <upon being constructed>"]
+			"Unsellable",
+			"Triggers the following global alert: [test] <upon being constructed>"]
 	},
 	{
-		
+		"name": "Proclamation d'Indépendance - Unseen Lands",
+		"uniques": [
+			"Triggers the following global alert: [test 2] <upon being constructed>",
+			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Can only be built [in capital]"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
