@@ -23,7 +23,7 @@
 		"cost": 1,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Remove [Colonie - Unseen Lands] [in capital]",
 			"Can only be built [in capital] <in cities with a [Colonie - Unseen Lands]>"]
 	},
 	{
@@ -47,7 +47,7 @@
 		"cost": 1,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Remove [Colonie - Hallownest] [in capital]",
 			"Can only be built [in capital] <in cities with a [Colonie - Hallownest]>"]
 	},
 	{
@@ -73,7 +73,7 @@
 		"cost": 1,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Remove [Colonie - Disney] [in capital]",
 			"Can only be built [in capital] <in cities with a [Colonie - Disney]>"]
 	},
 	{
@@ -99,7 +99,7 @@
 		"cost": 1,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Remove [Colonie d'Unseen Lands] [in capital]",
+			"Remove [Colonie - Ukraine] [in capital]",
 			"Can only be built [in capital] <in cities with a [Colonie - Ukraine]>"]
 	},
 //////////////// HALLOWNEST ////////////////
