@@ -1,1 +1,6 @@
-
+{
+	"name": "Global uniques",
+	"uniques": [
+        "Triggers the following global alert: [No cost too great... Hallownest a invoqué le Pure Vessel !] <upon constructing [Temple de l'Œuf Noir]>"
+	]
+}
