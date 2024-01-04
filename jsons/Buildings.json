@@ -176,7 +176,8 @@
 		"cityStrength": 10,
 		"cityHealth": 75,
 		"isNationalWonder": true,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": ["Destroyed when the city is captured",
+			"Provides [1] [Silk]"],
 		"requiredTech": "Currency"
 	},
 	{
@@ -201,6 +202,13 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
+	{
+		"name": "Communications Array",
+		"uniqueTo": "Unseen Lands",
+		"replaces": "Broadcast Tower",
+		"maintenance": 5,
+		"cost": 750,
+		"uniques": ["[+5 Culture]", "[+50]% [Culture]"]
 //////////////// DISNEY ////////////////
 	{
 		"name": "Restorant de Rémi",
