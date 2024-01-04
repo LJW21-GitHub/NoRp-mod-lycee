@@ -208,7 +208,8 @@
 		"replaces": "Broadcast Tower",
 		"maintenance": 5,
 		"cost": 750,
-		"uniques": ["[+5 Culture]", "[+50]% [Culture]"]
+		"uniques": ["[+3 Culture]",
+			"[+50]% [Culture]",]
 //////////////// DISNEY ////////////////
 	{
 		"name": "Restorant de Rémi",
