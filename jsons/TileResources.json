@@ -1,25 +1,25 @@
 {
-    "name": "Unseen Lands Embassy",
+    "name": "Ambassade - Unseen Lands",
     "resourceType": "Strategic",
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
 {
-    "name": "Hallownest Embassy",
+    "name": "Ambassade - Hallownest",
     "resourceType": "Strategic",
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
 {
-    "name": "Disney Embassy",
+    "name": "Ambassade - Disney",
     "resourceType": "Strategic",
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
 {
-    "name": "Ukraine Embassy",
+    "name": "Ambassade - Ukraine",
     "resourceType": "Strategic",
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
 {
-    "name": "Russia Embassy",
+    "name": "Ambassade - Russie",
     "resourceType": "Strategic",
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
