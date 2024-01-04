@@ -215,6 +215,9 @@
 	{
 		"name": "Restorant de Rémi",
 		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"requiredTech": "Trapping",
+		"cost": 250,
 		"requiredNearbyImprovedResources": ["Spices", "Salt"],
 		"uniques": ["[+100]% [Food] [in this city]", "[+7 Happiness] [in this city]"]
 	},
