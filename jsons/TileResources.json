@@ -24,5 +24,7 @@
     "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
 },
 {
-    "name": "Slaves"
-}
+    "name": "Esclaves",
+    "resourceType": "Strategic",
+    "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+},
