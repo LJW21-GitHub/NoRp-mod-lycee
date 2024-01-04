@@ -1,6 +1,10 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-        "Triggers the following global alert: [No cost too great... Hallownest a invoqué le Pure Vessel !] <upon constructing [Temple de l'Œuf Noir]>"
+        "Instantly provides [100] [Ambassade - Unseen Lands] <upon discovering [Guilds]> <hidden from users> <for [Unseen Lands]",
+		"Instantly provides [100] [Ambassade - Hallownest] <upon discovering [Guilds]> <hidden from users> <for [Hallownest]",
+		"Instantly provides [100] [Ambassade - Disney] <upon discovering [Guilds]> <hidden from users> <for [Disney]",
+		"Instantly provides [100] [Ambassade - Ukraine] <upon discovering [Guilds]> <hidden from users> <for [Ukraine]",
+		"Instantly provides [100] [Ambassade - Russie] <upon discovering [Guilds]> <hidden from users> <for [Russie]",
 	]
 }
