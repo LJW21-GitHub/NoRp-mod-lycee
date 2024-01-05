@@ -160,6 +160,11 @@
 			"Can only be built [in capital]",
 			"Only available <in cities with a [Colonie - Russie]>"]
 	},
+	{
+		"name": "test ambassade",
+		"cost": 1,
+		"uniques": ["Consumes [1] [Ambassade - Unseen Lands]"]
+	},
 //////////////// HALLOWNEST ////////////////
 	{
 		"name": "Bench",
