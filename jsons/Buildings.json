@@ -163,7 +163,9 @@
 	{
 		"name": "test ambassade",
 		"cost": 1,
-		"uniques": ["Consumes [1] [Ambassade - Unseen Lands]"]
+		"uniques": ["Consumes [1] [Ambassade - Unseen Lands]",
+			"Unbuildable <for [Unseen Lands]>",
+			"[+200]% [Culture] <when above [0] [Ambassade - Unseen Lands]>"]
 	},
 //////////////// HALLOWNEST ////////////////
 	{
