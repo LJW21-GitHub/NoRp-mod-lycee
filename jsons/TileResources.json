@@ -2,6 +2,7 @@
     {
         "name": "Ambassade - Unseen Lands",
         "resourceType": "Strategic",
+        "revealedBy": "Guilds",
         "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
     },
     {
