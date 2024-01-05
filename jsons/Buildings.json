@@ -133,8 +133,8 @@
 		"cost": 1,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"Unbuildable <for [Russie]>",
-			"Cannot be purchased <for [Russie]>",
+			"Unbuildable <for [Russia]>",
+			"Cannot be purchased <for [Russia]>",
 			"Can only be built [in capital]",
 			"Only available <in cities without a [Colonie - Hallownest]>",
 			"Only available <in cities without a [Colonie - Disney]>",
