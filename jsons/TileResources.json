@@ -25,8 +25,8 @@
         "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
     },
     {
-        "name": "Esclaves",
+        "name": "Colonial Token",
         "resourceType": "Strategic",
-        "uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
     },
 ]
