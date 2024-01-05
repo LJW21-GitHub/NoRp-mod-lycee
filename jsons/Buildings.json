@@ -30,7 +30,7 @@
 			"Triggers a global alert upon completion",
 			"Remove [Colonie - Unseen Lands] [in capital]",
 			"Can only be built [in capital]",
-			"Only available <in cities with a [Colonie - Unseen Lands]>"]
+			//"Only available <in cities with a [Colonie - Unseen Lands]>"]
 	},
 	{
 		"name": "Colonie - Hallownest",
