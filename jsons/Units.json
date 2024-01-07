@@ -226,4 +226,17 @@
 			"All adjacent units heal [10] HP when healing <when not at war>",
 			"Unbuildable <when at war>", "Cannot be purchased <when at war>"]
 	},
+//////////////// DISNEY ////////////////
+	{
+		"name": "Troupe de Robin des Bois",
+		"uniqueTo": "Disney",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"cost": 55,
+		"movement": 3,
+		"requiredTech": "Archery",
+		"uniques": [
+			"May withdraw before melee ([80]%)"
+		]
+	},
 ]
