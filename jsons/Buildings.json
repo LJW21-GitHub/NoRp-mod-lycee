@@ -5,7 +5,7 @@
 		"uniqueTo": "Hallownest",
 		"maintenance": 1,
 		"cost": 150,
-		"happiness": 3,
+		"happiness": 2,
 		"culture": 3,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Iron Working",
@@ -42,7 +42,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Culture] <in this city>",
+			"[10]% [Culture]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
@@ -95,9 +95,21 @@
 		"name": "Restaurant de Rémi",
 		"uniqueTo": "Disney",
 		"isNationalWonder": true,
-		"requiredTech": "Trapping",
-		"cost": 250,
+		"requiredTech": "Refrigeration",
+		"cost": 750,
 		"requiredNearbyImprovedResources": ["Spices", "Salt"],
-		"uniques": ["[+100]% [Food] [in this city]", "[+7 Happiness] [in this city]"]
+		"uniques": ["[+100]% [Food]", "[+7 Happiness]"]
 	},
+	{
+		"name": "Palais de Tiana",
+		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"replaces": "Hermitage",
+		"requiredTech": "Architecture",
+		"cost": 200,
+		"uniques": [
+			"[+7] [Culture]",
+			"[+75]% [Culture]"
+		]
+	}
 ]
