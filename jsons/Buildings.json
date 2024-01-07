@@ -114,7 +114,7 @@
 		"requiredTech": "Architecture",
 		"cost": 200,
 		"uniques": [
-			"[+7] [Culture]",
+			"[+7 Culture]",
 			"[+75]% [Culture]",
 			"Requires a [Opera House] in all cities",
 			"Cost increases by [30] per owned city",
