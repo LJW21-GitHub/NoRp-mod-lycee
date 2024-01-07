@@ -7,17 +7,19 @@
     "strength": 30,
     "uniqueTo": "Hallownest",
     "movement": 3,
-    "upgradesTo": "Pure Vessel 2"
+    "upgradesTo": "Pure Vessel 2",
+	"attackSound": "metalhit"
   },
   {
-    "name": "Pure Vessel 2",
+	"name": "Pure Vessel 2",
     "unitType": "Sword",
     "uniques": ["Unbuildable", "Can move after attacking"],
     "strength": 45,
     "uniqueTo": "Hallownest",
     "requiredTech": "Gunpowder",
     "movement": 3,
-    "upgradesTo": "Hollow Knight"
+    "upgradesTo": "Hollow Knight",
+	"attackSound": "metalhit"
   },
   {
     "name": "Hollow Knight",
@@ -27,7 +29,8 @@
     "uniqueTo": "Hallownest",
     "requiredTech": "Industrialization",
     "movement": 3,
-    "upgradesTo": "Hollow Knight 2"
+    "upgradesTo": "Hollow Knight 2",
+	"attackSound": "metalhit"
   },
   {
     "name": "Hollow Knight 2",
@@ -37,7 +40,8 @@
     "uniqueTo": "Hallownest",
     "requiredTech": "Replaceable Parts",
     "movement": 3,
-    "upgradesTo": "Hollow Knight 3"
+    "upgradesTo": "Hollow Knight 3",
+	"attackSound": "metalhit"
   },
   {
     "name": "Hollow Knight 3",
@@ -47,7 +51,8 @@
     "uniqueTo": "Hallownest",
     "requiredTech": "Atomic Theory",
     "movement": 3,
-    "upgradesTo": "Hollow Knight 4"
+    "upgradesTo": "Hollow Knight 4",
+	"attackSound": "metalhit"
   },
   {
     "name": "Hollow Knight 4",
@@ -56,7 +61,8 @@
     "strength": 175,
     "uniqueTo": "Hallownest",
     "requiredTech": "Nuclear Fusion",
-    "movement": 3
+    "movement": 3,
+	"attackSound": "metalhit"
   },
 //////////////// UNSEEN LANDS ////////////////
   {
@@ -110,7 +116,8 @@
 		"cost": 75,
 		"movement": 3,
 		"strength": 10,
-		"rangedStrength": 15
+		"rangedStrength": 15,
+		"attackSound": "throw"
 	},
 	{
 		"name": "Spearmaster 2",
@@ -121,7 +128,8 @@
 		"cost": 150,
 		"movement": 3,
 		"strength": 15,
-		"rangedStrength": 20
+		"rangedStrength": 20,
+		"attackSound": "throw"
 	},
 	{
 		"name": "Spearmaster 3",
@@ -133,6 +141,7 @@
 		"movement": 3,
 		"strength": 23,
 		"rangedStrength": 37,
+		"attackSound": "throw",
 		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
@@ -146,6 +155,7 @@
 		"movement": 3,
 		"strength": 50,
 		"rangedStrength": 65,
+		"attackSound": "throw",
 		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
@@ -158,6 +168,7 @@
 		"movement": 3,
 		"strength": 55,
 		"rangedStrength": 80,
+		"attackSound": "throw",
 		"uniques": ["Ranged attacks may be performed over obstacles"]
 	},
 	{
@@ -169,6 +180,7 @@
 		"obsoleteTech": "Civil Service"
 		"movement": 2,
 		"strength": 7,
+		"attackSound": "nonmetalhit",
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
@@ -180,6 +192,7 @@
 		"obsoleteTech": "Metallurgy"
 		"movement": 2,
 		"strength": 13,
+		"attackSound": "nonmetalhit",
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
@@ -191,6 +204,7 @@
 		"obsoleteTech": "Replaceable Parts"
 		"movement": 2,
 		"strength": 20,
+		"attackSound": "nonmetalhit",
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
@@ -202,6 +216,7 @@
 		"obsoleteTech": "Mobile Tactics"
 		"movement": 2,
 		"strength": 40,
+		"attackSound": "nonmetalhit",
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
@@ -212,6 +227,7 @@
 		"requiredTech": "Mobile Tactics",
 		"movement": 2,
 		"strength": 75,
+		"attackSound": "nonmetalhit",
 		"uniques": ["[+100]% Strength <when defending>"]
 	},
 	{
