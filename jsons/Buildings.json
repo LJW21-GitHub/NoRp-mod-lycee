@@ -101,7 +101,7 @@
 		"cost": 750,
 		"requiredNearbyImprovedResources": ["Spices"],
 		"uniques": ["[+50]% [Food]",
-			"[+7 Happiness]",
+			"[+4 Happiness]",
 			"[5] free [Rats Cuisiniers] units appear",
 			"Destroyed when the city is captured"
 		]
@@ -129,7 +129,24 @@
 		"cityStrength": 50,
 		"cost": 450,
 		"uniques": [
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured"
 		]
 	},
+	{
+		"name": "Tour centrale",
+		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"requiredTech": "Electricity",
+		"cost": 450,
+		"uniques": [
+			"Requires a [Maison de Volt] in at least [1] cities",
+			"Requires a [Palais de Tiana] in at least [1] cities",
+			"Requires a [Restaurant de Rémi] in at least [1] cities",
+			"[+50]% [Culture]",
+			"[+50]% [Science]",
+			"[+7 Happiness]",
+			"Triggers a global alert upon completion",
+			"Destroyed when the city is captured"
+		]
+	}
 ]
