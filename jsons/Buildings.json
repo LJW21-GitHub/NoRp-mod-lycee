@@ -92,7 +92,7 @@
 	},
 //////////////// DISNEY ////////////////
 	{
-		"name": "Restorant de Rémi",
+		"name": "Restaurant de Rémi",
 		"uniqueTo": "Disney",
 		"isNationalWonder": true,
 		"requiredTech": "Trapping",
