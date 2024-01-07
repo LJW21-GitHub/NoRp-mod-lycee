@@ -20,7 +20,7 @@
 		"happiness": 7,
 		"culture": 10,
 		"science": 10,
-		"cityHealth": 150,
+		"cityHealth": 75,
 		"cityStrength": 20,
 		"isNationalWonder": true,
 		"uniques": ["Free [Pure Vessel] appears",
@@ -42,7 +42,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Culture]",
+			"[33]% [Culture]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
@@ -53,7 +53,7 @@
 		"cost": 150,
 		"hurryCostModifier": 150,
 		"cityStrength": 10,
-		"cityHealth": 75,
+		"cityHealth": 50,
 		"isNationalWonder": true,
 		"uniques": ["Destroyed when the city is captured",
 			"Provides [1] [Silk]"],
@@ -67,7 +67,7 @@
 		"hurryCostModifier": 150,
 		"isNationalWonder": true,
 		"uniques": [
-			"[10]% [Science] <in this city>",
+			"[33]% [Science]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Optics"
     },
@@ -88,7 +88,9 @@
 		"maintenance": 5,
 		"cost": 750,
 		"uniques": ["[+3 Culture]",
-			"[+50]% [Culture]"]
+			"[+50]% [Culture]",
+			"Destroyed when the city is captured"
+		]
 	},
 //////////////// DISNEY ////////////////
 	{
@@ -97,8 +99,12 @@
 		"isNationalWonder": true,
 		"requiredTech": "Refrigeration",
 		"cost": 750,
-		"requiredNearbyImprovedResources": ["Spices", "Salt"],
-		"uniques": ["[+100]% [Food]", "[+7 Happiness]"]
+		"requiredNearbyImprovedResources": ["Spices"],
+		"uniques": ["[+50]% [Food]",
+			"[+7 Happiness]",
+			"[5] free [Rats Cuisiniers] units appear",
+			"Destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Palais de Tiana",
@@ -109,7 +115,21 @@
 		"cost": 200,
 		"uniques": [
 			"[+7] [Culture]",
-			"[+75]% [Culture]"
+			"[+75]% [Culture]",
+			"Requires a [Opera House] in all cities",
+			"Cost increases by [30] per owned city",
+			"Destroyed when the city is captured"
 		]
-	}
+	},
+	{
+		"name": "Maison de Volt",
+		"uniqueTo": "Disney",
+		"isNationalWonder": true,
+		"requiredTech": "Electricity",
+		"cityStrength": 50,
+		"cost": 450,
+		"uniques": [
+			"Destroyed when the city is captured",
+		]
+	},
 ]
