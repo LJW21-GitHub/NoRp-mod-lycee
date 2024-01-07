@@ -230,11 +230,16 @@
 	{
 		"name": "Troupe de Robin des Bois",
 		"uniqueTo": "Disney",
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
 		"unitType": "Archery",
 		"replaces": "Archer",
+		"strength": 5,
+		"rangedStrength": 9,
 		"cost": 55,
 		"movement": 3,
-		"requiredTech": "Archery",
+		"attackSound": "arrow"
 		"uniques": [
 			"May withdraw before melee ([80]%)"
 		]
