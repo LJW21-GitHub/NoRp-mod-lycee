@@ -102,7 +102,6 @@
 		"requiredNearbyImprovedResources": ["Spices"],
 		"uniques": ["[+50]% [Food]",
 			"[+4 Happiness]",
-			"[5] free [Rats Cuisiniers] units appear",
 			"Destroyed when the city is captured"
 		]
 	},
