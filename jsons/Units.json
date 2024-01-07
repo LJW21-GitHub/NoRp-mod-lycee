@@ -226,26 +226,4 @@
 			"All adjacent units heal [10] HP when healing <when not at war>",
 			"Unbuildable <when at war>", "Cannot be purchased <when at war>"]
 	},
-	//////////////// ESPIONS ////////////////
-	{
-		"name": "Overseer",
-		"uniqueTo": "Unseen Lands",
-		"unitType": "Espion",
-		"cost": 150,
-		"movement": 3,
-		"uniques": ["May enter foreign tiles without open borders",
-			"Uncapturable",
-			"Limited to [3] per Civilization"]
-	},
-	{
-		"name": "Crawlid",
-		"uniqueTo": "Hallownest",
-		"unitType": "Espion",
-		"cost": 150,
-		"movement": 3,
-		"uniques": ["May enter foreign tiles without open borders",
-			"Uncapturable",
-			"Limited to [3] per Civilization"]
-	},
-//////////////// ESCLAVES ////////////////
 ]
