@@ -85,6 +85,7 @@
 		"name": "Communications Array",
 		"uniqueTo": "Unseen Lands",
 		"replaces": "Broadcast Tower",
+		"requiredTech": "Radio",
 		"maintenance": 5,
 		"cost": 750,
 		"uniques": ["[+3 Culture]",
