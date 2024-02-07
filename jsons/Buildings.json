@@ -1,4 +1,114 @@
 [
+//////////////// COLONIES + AMBASSADES ////////////////
+	{
+		"name": "Empire colonial",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <in cities without a [Colonisé]>",
+			"Triggers a global alert upon completion",
+			"Can only be built [in capital]",
+			"Destroyed when the city is captured",
+			"[+33]% [Production] [in all cities] <when above [0] [Colonial Token]>",
+			"[+33]% [Gold] [in all cities] <when above [0] [Colonial Token]>",
+			"[+33]% [Production] [in all cities] <when above [1] [Colonial Token]>",
+			"[+33]% [Gold] [in all cities] <when above [1] [Colonial Token]>",
+			"[+33]% [Production] [in all cities] <when above [2] [Colonial Token]>",
+			"[+33]% [Gold] [in all cities] <when above [2] [Colonial Token]>",
+			"[+33]% [Production] [in all cities] <when above [3] [Colonial Token]>",
+			"[+33]% [Gold] [in all cities] <when above [3] [Colonial Token]>",
+		]
+	},
+	{
+		"name": "Colonisé",
+		"cost": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <in cities without a [Empire colonial]>",
+			"Provides [1] [Colonial Token]",
+			"Triggers a global alert upon completion",
+			"Can only be built [in capital]",
+			"[-33]% [Production] [in all cities]",
+			"[-33]% [Gold] [in all cities]",
+			"Nullifies Growth [in all cities]",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Ambassade Unseen Lands",
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"requiredTech": "Civil Service",
+		"maintenance": 2,
+		"uniques": [
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Unseen Lands]",
+			"Limited to [1] per Civilization",
+      			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Unseen Lands]>",
+			"Unbuildable <for [Unseen Lands]>",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Ambassade Disney",
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"requiredTech": "Civil Service",
+		"maintenance": 2,
+		"uniques": [
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Disney]",
+			"Limited to [1] per Civilization",
+      			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Disney]>",
+			"Unbuildable <for [Disney]>",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Ambassade Hallownest",
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"requiredTech": "Civil Service",
+		"maintenance": 2,
+		"uniques": [
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Hallownest]",
+			"Limited to [1] per Civilization",
+      			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Hallownest]>",
+			"Unbuildable <for [Hallownest]>",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Ambassade Russie",
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"requiredTech": "Civil Service",
+		"maintenance": 2,
+		"uniques": [
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Russie]",
+			"Limited to [1] per Civilization",
+      			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Russie]>",
+			"Unbuildable <for [Russia]>",
+			"Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Ambassade Ukraine",
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"requiredTech": "Civil Service",
+		"maintenance": 2,
+		"uniques": [
+      			"Destroyed when the city is captured",
+			"Consumes [1] [Ambassade Ukraine]",
+			"Limited to [1] per Civilization",
+      			"Cannot be purchased",
+			"[+15]% [Culture] [in all cities] <when above [-1] [Ambassade Ukraine]>",
+			"Unbuildable <for [Ukraine]>",
+			"Triggers a global alert upon completion"]
+	},
 //////////////// HALLOWNEST ////////////////
 	{
 		"name": "Bench",
