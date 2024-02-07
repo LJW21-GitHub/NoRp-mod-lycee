@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ambassade Unseen Lands",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Ambassade Hallownest",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Ambassade Disney",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Ambassade Ukraine",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Ambassade Russie",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Colonial Token",
+        "resourceType": "Strategic",
+        "revealedBy": "Civil Service",
+        "uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+    },
+]
