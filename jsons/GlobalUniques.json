@@ -1,0 +1,10 @@
+{
+	"name": "Global uniques",
+	"uniques": [
+		"Provides [100] [Ambassade Unseen Lands] <upon discovering [Civil Service]> <for [Unseen Lands]>",
+		"Provides [100] [Ambassade Disney] <upon discovering [Civil Service]> <for [Disney]>",
+		"Provides [100] [Ambassade Hallownest] <upon discovering [Civil Service]> <for [Hallownest]>",
+		"Provides [100] [Ambassade Russie] <upon discovering [Civil Service]> <for [Russia]>",
+		"Provides [100] [Ambassade Ukraine] <upon discovering [Civil Service]> <for [Ukraine]>",
+	]
+}
